@@ -1,6 +1,6 @@
 nend-WebView Sample Project
 ==================
-![ロゴ](https://github.com/fan-ADN/nendSDK-Android/blob/master/Sample/app/src/main/res/drawable/nend_logo.png)
+![logo](https://user-images.githubusercontent.com/9563381/31269103-17daebce-aaba-11e7-9899-742435c4ef20.png)
 
 Overview
 ---------------------------------
